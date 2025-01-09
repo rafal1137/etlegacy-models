@@ -25,3 +25,6 @@ https://sketchfab.com/3d-models/m1-grenade-adapter-usa-135992ef7cad4114930679a0e
 https://sketchfab.com/3d-models/m1-garand-attachments-1ffee8fc46384c598eafe2373acb1af4
 https://sketchfab.com/3d-models/pineapple-grenade-91136c9b7b3a45c1a72c02079525eeee
 https://free3d.com/3d-model/rifle-scope-28795.html
+
+# MG42
+https://sketchfab.com/3d-models/maschinengewehr-mg-42-a7c6b122b8654160a72e19a783fb6b9d
