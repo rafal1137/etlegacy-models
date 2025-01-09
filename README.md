@@ -28,3 +28,6 @@ https://free3d.com/3d-model/rifle-scope-28795.html
 
 # MG42
 https://sketchfab.com/3d-models/maschinengewehr-mg-42-a7c6b122b8654160a72e19a783fb6b9d
+
+# PF
+https://sketchfab.com/3d-models/ww2-german-panzerfaust-b3e273099e8f4ef2ac59536c902adbac
