@@ -31,3 +31,6 @@ https://sketchfab.com/3d-models/maschinengewehr-mg-42-a7c6b122b8654160a72e19a783
 
 # PF
 https://sketchfab.com/3d-models/ww2-german-panzerfaust-b3e273099e8f4ef2ac59536c902adbac
+
+# Pliers
+https://www.cgtrader.com/free-3d-models/industrial/tool/piler-3d-model
