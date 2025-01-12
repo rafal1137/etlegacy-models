@@ -34,3 +34,9 @@ https://sketchfab.com/3d-models/ww2-german-panzerfaust-b3e273099e8f4ef2ac59536c9
 
 # Pliers
 https://www.cgtrader.com/free-3d-models/industrial/tool/piler-3d-model
+
+# Satchel
+https://www.cgtrader.com/free-3d-print-models/hobby-diy/mechanical-parts/oven-knob
+https://sketchfab.com/3d-models/wwii-radio-5143267689264a15ac73e2afbb54c6b0
+https://www.blenderkit.com/get-blenderkit/f11f34e3-aa04-4b58-859c-37c60acaa59b/
+https://sketchfab.com/3d-models/radio-pouch-d77a59d73a0d41af840496f630e53a82
