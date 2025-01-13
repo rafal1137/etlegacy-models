@@ -40,3 +40,9 @@ https://www.cgtrader.com/free-3d-print-models/hobby-diy/mechanical-parts/oven-kn
 https://sketchfab.com/3d-models/wwii-radio-5143267689264a15ac73e2afbb54c6b0
 https://www.blenderkit.com/get-blenderkit/f11f34e3-aa04-4b58-859c-37c60acaa59b/
 https://sketchfab.com/3d-models/radio-pouch-d77a59d73a0d41af840496f630e53a82
+
+# SilencedColt
+https://sketchfab.com/3d-models/colt-m1911-silencer-066b5650970e4d01b721fd4d19ab8065
+
+# SmokeGranade
+https://www.turbosquid.com/3d-models/free-3ds-model-ready-grenade/1114474
