@@ -12,6 +12,7 @@ https://www.cgtrader.com/free-3d-models/military/gun/mauser-karabiner-98k-26d92f
 https://www.cgtrader.com/free-3d-models/military/gun/german-ww2-m24-stick-grenade
 https://sketchfab.com/3d-models/schiessbecher-german-rifle-grenade-launcher-wwii-c3def813ba2d47e4b8043df2b1992368
 https://free3d.com/3d-model/rifle-scope-28795.html
+https://www.cgtrader.com/free-3d-models/military/gun/mauser-rifle-cartridge-for-98k-mg-34-mg42-germany
 
 # Knife
 https://www.turbosquid.com/3d-models/army-combat-knife-1422603
