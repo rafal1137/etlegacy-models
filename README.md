@@ -47,3 +47,9 @@ https://sketchfab.com/3d-models/colt-m1911-silencer-066b5650970e4d01b721fd4d19ab
 
 # SmokeGranade
 https://www.turbosquid.com/3d-models/free-3ds-model-ready-grenade/1114474
+
+# AkimboColt
+https://sketchfab.com/3d-models/colt-m1911-silencer-066b5650970e4d01b721fd4d19ab8065
+
+# Luger
+https://sketchfab.com/3d-models/luger-p08-69887ff0094d40c285474591900112fb
