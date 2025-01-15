@@ -53,3 +53,6 @@ https://sketchfab.com/3d-models/colt-m1911-silencer-066b5650970e4d01b721fd4d19ab
 
 # Luger
 https://sketchfab.com/3d-models/luger-p08-69887ff0094d40c285474591900112fb
+
+# FG42
+https://rigmodels.com/model.php?view=FG-42-(OLD)-3d-model__c253d24edcf74a88b5fb2ece06a7650e
